@@ -128,11 +128,14 @@ export const Projects = () => {
                   }
                 >
                   <h2>Projects</h2>
-                  <p>
-                    During my time as a computer science student trying to make
-                    some simple projects. Here are some projects that I have
-                    built to hone my skills.
-                  </p>
+               <p>
+              During my time as a computer science student, I’ve created some simple projects to hone my skills. 
+              For more details, visit my{" "}
+              <a href="https://www.linkedin.com/in/nabila-ihza/" target="_blank" rel="noopener noreferrer">
+              LinkedIn profile
+               </a>.
+              </p>
+
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav
                       variant="pills"
